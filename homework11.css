@@ -1,0 +1,24 @@
+
+
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+}
+
+.responsive_large {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}
+
+.table {
+    width: 90%;
+    height: auto;
+}
